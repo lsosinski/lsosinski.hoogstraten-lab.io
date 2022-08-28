@@ -1,2 +1,5 @@
-# hoogstratenlab-site
-repository with Hoogstraten lab website content
+# The Hoogstraten Lab
+
+## WORK IN PROGRESS
+
+Come back soon for exciting updates!
